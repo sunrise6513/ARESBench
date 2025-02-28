@@ -1,6 +1,6 @@
 <div align="center">
 
-# ARES 2.0: Robustness Evaluation for Image Classification Based on [Paddle](https://www.paddlepaddle.org.cn/)
+# ARESBench: Robustness Evaluation for Image Classification Based on [Paddle](https://www.paddlepaddle.org.cn/)
 
 </div>
 
